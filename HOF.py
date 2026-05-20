@@ -14,12 +14,12 @@ DATA_DIR.mkdir(exist_ok=True)
 FILES = {
     "sessions": DATA_DIR / "sessions.csv",
     "stagiaires": DATA_DIR / "stagiaires.csv",
+    "formateurs": DATA_DIR / "formateurs.csv",
+    "referentiels": DATA_DIR / "referentiels.csv",
     "emargements": DATA_DIR / "emargements.csv",
     "evaluations": DATA_DIR / "evaluations.csv",
     "qualiopi": DATA_DIR / "qualiopi_checks.csv",
     "bpf": DATA_DIR / "bpf.csv",
-    "referenciels":DATA_DIR / "referenciels.csv",
-    "formateur":DATA_DIR / "formateurs.csv",
 }
 
 
