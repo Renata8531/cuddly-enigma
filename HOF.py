@@ -39,7 +39,7 @@ sessions = load_csv("sessions", [
 ])
 
 stagiaires = load_csv("stagiaires", [
-    "stagiaire_id", , "nom", "prenom", "email", "numero de telephone', "adresse", "lien_unique"
+    "stagiaire_id", "nom", "prenom", "email", "numero de telephone', "adresse", "lien_unique"
 ])
 
 emargements = load_csv("emargements", [
