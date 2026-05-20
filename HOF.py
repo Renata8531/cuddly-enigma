@@ -35,11 +35,11 @@ def save_csv(name, df):
 
 
 sessions = load_csv("sessions", [
-    "session_id", "nom", "date_debut", "date_fin", "prix", "cout_prevu"
+    "session_id", "nom", "date_debut", "date_fin", "prix", 
 ])
 
 stagiaires = load_csv("stagiaires", [
-    "stagiaire_id", "session_id", "nom", "email", "lien_unique"
+    "stagiaire_id", , "nom", "prenom", "email", "numero de telephone', "adresse", "lien_unique"
 ])
 
 emargements = load_csv("emargements", [
