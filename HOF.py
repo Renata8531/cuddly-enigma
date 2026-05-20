@@ -18,6 +18,8 @@ FILES = {
     "evaluations": DATA_DIR / "evaluations.csv",
     "qualiopi": DATA_DIR / "qualiopi_checks.csv",
     "bpf": DATA_DIR / "bpf.csv",
+    "referenciels":DATA_DIR / "referenciels.csv"
+    "formateur":DATA_DIR / "formateurs.csv"
 }
 
 
@@ -52,15 +54,17 @@ qualiopi = load_csv("qualiopi", [
     "check_id", "session_id", "element", "fait"
 ])
 
-bfr = load_csv("bfr", [
+bpf = load_csv("bpf", [
     "ligne_id", "session_id", "type", "libelle", "montant", "statut"
 ])
 
 formateurs = load_csv("formateurs", [
     "formateur_id", "nom", "email", "specialite", "lien_unique"
-    ])
+
+])
 referenciels=load_csv("referentiel_id", "code_rncp", "intitule", "niveau", "metier", "actif"
-                       ])
+                      
+])
 st.title("HOF - Outil de gestion formation")
 
 menu = st.sidebar.radio(
@@ -93,7 +97,7 @@ if menu == "Sessions":
 
         if submit:
             new = {
-                "session_id": str(uuid.uuid4()),
+                "session_id": generate_id(sessions, "S"),
                 "nom": nom,
                 "date_debut": date_debut,
                 "date_fin": date_fin,
@@ -126,7 +130,7 @@ elif menu == "Stagiaires":
                 lien_unique = str(uuid.uuid4())
 
                 new = {
-                    "stagiaire_id": str(uuid.uuid4()),
+                    "stagiaire_id": generate_id(stagiaires, "ST"),
                     "session_id": session_id,
                     "nom": nom,
                     "email": email,
