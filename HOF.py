@@ -18,8 +18,8 @@ FILES = {
     "evaluations": DATA_DIR / "evaluations.csv",
     "qualiopi": DATA_DIR / "qualiopi_checks.csv",
     "bpf": DATA_DIR / "bpf.csv",
-    "referenciels":DATA_DIR / "referenciels.csv"
-    "formateur":DATA_DIR / "formateurs.csv"
+    "referenciels":DATA_DIR / "referenciels.csv",
+    "formateur":DATA_DIR / "formateurs.csv",
 }
 
 
