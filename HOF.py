@@ -62,7 +62,8 @@ formateurs = load_csv("formateurs", [
     "formateur_id", "nom", "email", "specialite", "lien_unique"
 
 ])
-referenciels=load_csv("referentiel_id", "code_rncp", "intitule", "niveau", "metier", "actif"
+referenciels=load_csv("referenciels", [
+    "referentiel_id", "code_rncp", "intitule", "niveau", "metier", "actif"
                       
 ])
 st.title("HOF - Outil de gestion formation")
