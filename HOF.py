@@ -62,7 +62,7 @@ formateurs = load_csv("formateurs", [
     "formateur_id", "nom", "email", "specialite", "lien_unique"
 
 ])
-referenciels=load_csv("referenciels", [
+referentiels=load_csv("referentiels", [
     "referentiel_id", "code_rncp", "intitule", "niveau", "metier", "actif"
                       
 ])
@@ -77,7 +77,7 @@ menu = st.sidebar.radio(
         "Évaluations",
         "Qualiopi",
         "Formateur"
-        "Referenciels"
+        "Referentiels"
         "BFR",
         
     ]
