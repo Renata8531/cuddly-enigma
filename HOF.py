@@ -17,7 +17,7 @@ FILES = {
     "emargements": DATA_DIR / "emargements.csv",
     "evaluations": DATA_DIR / "evaluations.csv",
     "qualiopi": DATA_DIR / "qualiopi_checks.csv",
-    "bfr": DATA_DIR / "bfr.csv",
+    "bpf": DATA_DIR / "bpf.csv",
 }
 
 
@@ -56,7 +56,11 @@ bfr = load_csv("bfr", [
     "ligne_id", "session_id", "type", "libelle", "montant", "statut"
 ])
 
-
+formateurs = load_csv("formateurs", [
+    "formateur_id", "nom", "email", "specialite", "lien_unique"
+    ])
+referenciels=load_csv("referentiel_id", "code_rncp", "intitule", "niveau", "metier", "actif"
+                       ])
 st.title("HOF - Outil de gestion formation")
 
 menu = st.sidebar.radio(
@@ -67,7 +71,10 @@ menu = st.sidebar.radio(
         "Émargement",
         "Évaluations",
         "Qualiopi",
+        "Formateur"
+        "Referenciels"
         "BFR",
+        
     ]
 )
 
