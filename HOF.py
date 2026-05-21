@@ -346,7 +346,11 @@ if menu == "Tableau de bord":
                 "Financement",
                 ["OPCO" , "CPF", "Transition PRO" , "Fonds perso"]
             )
-            entreprise = st.text_input("Entreprise")
+            formationdem = st.selectbox(
+                "Formation souhaitée",
+               programmes["nom_programme"]
+            )
+            entreprise = st.text_input("Entreprise ( si disponible)")
             submitted = st.form_submit_button("Ajouter le stagiaire")
     st.info(
         "Prochaine étape : créer une table candidats.csv avec statut : "
