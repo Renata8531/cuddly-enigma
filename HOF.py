@@ -338,7 +338,13 @@ if menu == "Tableau de bord":
     st.divider()
 
     st.subheader("Candidatures / stagiaires postulants")
-
+             with st.form("form_stagiaire"):
+            nom = st.text_input("Nom du stagiaire")
+            email = st.text_input("Email")
+            telephone = st.text_input("Numero de telephone")
+            financement=st.selectbox("OPCO" , "CPF", "Transition PRO" , "Fonds perso")
+            entreprise = st.text_input("Entreprise")
+            submitted = st.form_submit_button("Ajouter le stagiaire")
     st.info(
         "Prochaine étape : créer une table candidats.csv avec statut : "
         "postulé, contacté, accepté, refusé, inscrit."
