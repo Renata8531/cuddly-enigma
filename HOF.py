@@ -438,23 +438,79 @@ elif menu == "Programmes":
             rows = []
 
             st.caption("Coche uniquement les compétences prévues dans CE programme.")
+st.subheader("Sélection des compétences")
 
-            for _, comp in visible_comps.iterrows():
-                comp_id = comp["competence_id"]
+search = st.text_input("Rechercher une compétence", "")
 
-                already = not existing[
-                    (existing["competence_id"] == comp_id) &
-                    (existing["prevue"].astype(str) == "True")
-                ].empty
+visible_comps = comps_ref.copy()
 
-                label = f"{comp['epreuve']} | {comp['code_competence']} - {comp['competence']}"
-                checked = st.checkbox(label, value=already, key=f"prog_{programme_id}_{comp_id}")
+if search:
+    visible_comps = visible_comps[
+        visible_comps["competence"].str.contains(search, case=False, na=False)
+        | visible_comps["code_competence"].str.contains(search, case=False, na=False)
+        | visible_comps["epreuve"].str.contains(search, case=False, na=False)
+        | visible_comps["bloc"].str.contains(search, case=False, na=False)
+    ]
 
-                rows.append({
-                    "programme_id": programme_id,
-                    "competence_id": comp_id,
-                    "prevue": str(checked),
-                })
+existing = programme_competences[
+    (programme_competences["programme_id"] == programme_id)
+    & (programme_competences["prevue"].astype(str) == "True")
+]["competence_id"].tolist()
+
+table = visible_comps[
+    ["competence_id", "epreuve", "bloc", "code_competence", "competence", "famille", "niveau"]
+].copy()
+
+table["prévue"] = table["competence_id"].isin(existing)
+
+edited = st.data_editor(
+    table,
+    use_container_width=True,
+    hide_index=True,
+    column_config={
+        "prévue": st.column_config.CheckboxColumn(
+            "Prévue",
+            help="Coche les compétences prévues dans ce programme",
+            default=False,
+        )
+    },
+    disabled=[
+        "competence_id",
+        "epreuve",
+        "bloc",
+        "code_competence",
+        "competence",
+        "famille",
+        "niveau",
+    ],
+)
+
+if st.button("Sauvegarder les compétences du programme"):
+    rows = []
+
+    for _, row in edited.iterrows():
+        rows.append({
+            "programme_id": programme_id,
+            "competence_id": row["competence_id"],
+            "prevue": str(row["prévue"]),
+        })
+
+    visible_ids = edited["competence_id"].tolist()
+
+    programme_competences = programme_competences[
+        ~(
+            (programme_competences["programme_id"] == programme_id)
+            & (programme_competences["competence_id"].isin(visible_ids))
+        )
+    ]
+
+    programme_competences = pd.concat(
+        [programme_competences, pd.DataFrame(rows)],
+        ignore_index=True
+    )
+
+    save_csv("programme_competences", programme_competences)
+    st.success("Compétences du programme sauvegardées")
 
             if st.button("Sauvegarder les compétences du programme"):
                 visible_comp_ids = [row["competence_id"] for row in rows]
