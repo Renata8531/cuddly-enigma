@@ -701,7 +701,36 @@ elif menu == "Stagiaires":
                 st.rerun()
 
     st.dataframe(stagiaires, use_container_width=True)
+elif menu == "Fiche stagiaire":
+    st.header("Fiche stagiaire")
 
+    if stagiaires.empty:
+        st.warning("Aucun stagiaire.")
+    else:
+        stagiaire_label = st.selectbox(
+            "Choisir un stagiaire",
+            stagiaires["stagiaire_id"] + " - " + stagiaires["nom"]
+        )
+
+        stagiaire_id = stagiaire_label.split(" - ")[0]
+        stagiaire = stagiaires[stagiaires["stagiaire_id"] == stagiaire_id].iloc[0]
+
+        st.subheader(stagiaire["nom"])
+
+        st.write("Email :", stagiaire["email"])
+        st.write("Entreprise :", stagiaire["entreprise"])
+        st.write("Session :", stagiaire["session_id"])
+
+        st.divider()
+
+        st.subheader("Émargements")
+        st.dataframe(emargements[emargements["stagiaire_id"] == stagiaire_id])
+
+        st.subheader("Évaluations")
+        st.dataframe(evaluations[evaluations["stagiaire_id"] == stagiaire_id])
+
+        st.subheader("Satisfaction")
+        st.dataframe(satisfaction[satisfaction["stagiaire_id"] == stagiaire_id])
 
 # ============================================================
 # Compétences réalisées
