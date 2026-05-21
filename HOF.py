@@ -23,7 +23,7 @@ FILES = {
     "sessions": DATA_DIR / "sessions.csv",
     "stagiaires": DATA_DIR / "stagiaires.csv",
     "formateurs": DATA_DIR / "formateurs.csv",
-    "referentiels": DATA_DIR / "referentiels.csv",
+    "referentiels": DATA_DIR / "referentiels_.csv",
     "competences": DATA_DIR / "competences.csv",
     "programmes": DATA_DIR / "programmes.csv",
     "programme_competences": DATA_DIR / "programme_competences.csv",
