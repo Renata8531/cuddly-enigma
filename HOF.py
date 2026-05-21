@@ -512,25 +512,7 @@ if st.button("Sauvegarder les compétences du programme"):
     save_csv("programme_competences", programme_competences)
     st.success("Compétences du programme sauvegardées")
 
-            if st.button("Sauvegarder les compétences du programme"):
-                visible_comp_ids = [row["competence_id"] for row in rows]
-
-                programme_competences = programme_competences[
-                    ~(
-                        (programme_competences["programme_id"] == programme_id) &
-                        (programme_competences["competence_id"].isin(visible_comp_ids))
-                    )
-                ]
-
-                programme_competences = pd.concat(
-                    [programme_competences, pd.DataFrame(rows)],
-                    ignore_index=True
-                )
-
-                save_csv("programme_competences", programme_competences)
-                st.success("Compétences du programme sauvegardées")
-
-
+    
 # ============================================================
 # Formateurs
 # ============================================================
