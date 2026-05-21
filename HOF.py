@@ -229,31 +229,120 @@ menu = st.sidebar.radio(
 # ============================================================
 
 if menu == "Tableau de bord":
-    st.header("Tableau de bord")
+    st.header("Accueil - Tableau de bord")
 
-    col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Référentiels", len(referentiels))
-    col2.metric("Programmes", len(programmes))
-    col3.metric("Sessions", len(sessions))
-    col4.metric("Stagiaires", len(stagiaires))
+    today = pd.Timestamp.today().date()
+    current_month = today.month
+    current_year = today.year
+
+    st.subheader("Formations prévues ce mois-ci")
+
+    if sessions.empty:
+        st.info("Aucune session prévue.")
+    else:
+        sessions_display = sessions.copy()
+        sessions_display["date_debut_dt"] = pd.to_datetime(
+            sessions_display["date_debut"], errors="coerce"
+        )
+
+        sessions_mois = sessions_display[
+            (sessions_display["date_debut_dt"].dt.month == current_month)
+            & (sessions_display["date_debut_dt"].dt.year == current_year)
+        ]
+
+        if sessions_mois.empty:
+            st.info("Aucune formation prévue ce mois-ci.")
+        else:
+            st.dataframe(
+                sessions_mois[
+                    ["session_id", "nom", "date_debut", "date_fin", "programme_id", "formateur_id"]
+                ],
+                use_container_width=True
+            )
+
+    st.divider()
+
+    st.subheader("Formations en cours")
+
+    if sessions.empty:
+        st.info("Aucune formation en cours.")
+    else:
+        sessions_display["date_fin_dt"] = pd.to_datetime(
+            sessions_display["date_fin"], errors="coerce"
+        )
+
+        en_cours = sessions_display[
+            (sessions_display["date_debut_dt"].dt.date <= today)
+            & (sessions_display["date_fin_dt"].dt.date >= today)
+        ]
+
+        if en_cours.empty:
+            st.info("Aucune formation en cours aujourd'hui.")
+        else:
+            st.dataframe(
+                en_cours[
+                    ["session_id", "nom", "date_debut", "date_fin"]
+                ],
+                use_container_width=True
+            )
+
+    st.divider()
+
+    st.subheader("Tâches à réaliser")
+
+    taches = []
+
+    for _, session in sessions.iterrows():
+        session_id = session["session_id"]
+        nom_session = session["nom"]
+
+        stagiaires_session = stagiaires[stagiaires["session_id"] == session_id]
+        emargements_session = emargements[emargements["session_id"] == session_id]
+        evaluations_session = evaluations[evaluations["session_id"] == session_id]
+        satisfaction_session = satisfaction[satisfaction["session_id"] == session_id]
+        bilan_session = bilan_formateur[bilan_formateur["session_id"] == session_id]
+
+        if stagiaires_session.empty:
+            taches.append([session_id, nom_session, "Ajouter les stagiaires"])
+
+        if emargements_session.empty:
+            taches.append([session_id, nom_session, "Prévoir / vérifier l’émargement"])
+
+        if evaluations_session.empty:
+            taches.append([session_id, nom_session, "Préparer les évaluations"])
+
+        if satisfaction_session.empty:
+            taches.append([session_id, nom_session, "Envoyer satisfaction stagiaire"])
+
+        if bilan_session.empty:
+            taches.append([session_id, nom_session, "Faire remplir le bilan formateur"])
+
+    if taches:
+        df_taches = pd.DataFrame(
+            taches,
+            columns=["Session", "Formation", "Tâche à réaliser"]
+        )
+        st.dataframe(df_taches, use_container_width=True)
+    else:
+        st.success("Aucune tâche urgente détectée.")
+
+    st.divider()
+
+    st.subheader("Formations à prévoir")
 
     st.info(
-        "Logique : référentiel complet → programme → session → "
-        "compétences réalisées → évaluation ciblée → documents Qualiopi/BPF."
+        "Ici on ajoutera plus tard les formations à planifier : "
+        "demandes entrantes, renouvellements, sessions à ouvrir, candidats en attente."
     )
 
-    st.subheader("État des fichiers")
-    status = []
-    for name, path in FILES.items():
-        status.append({
-            "nom logique": name,
-            "fichier": str(path),
-            "existe": path.exists(),
-            "lignes": len(load_csv(name)) if path.exists() else 0
-        })
-    st.dataframe(pd.DataFrame(status), use_container_width=True)
+    st.divider()
 
+    st.subheader("Candidatures / stagiaires postulants")
 
+    st.info(
+        "Prochaine étape : créer une table candidats.csv avec statut : "
+        "postulé, contacté, accepté, refusé, inscrit."
+    )
 # ============================================================
 # Référentiels
 # ============================================================
@@ -594,7 +683,7 @@ elif menu == "Sessions":
             date_debut = st.date_input("Date de début")
             date_fin = st.date_input("Date de fin")
             prix = st.number_input("Prix vendu (€)", min_value=0.0)
-            cout_prevu = st.number_input("Coût prévu (€)", min_value=0.0)
+           
 
             submitted = st.form_submit_button("Créer la session")
 
@@ -613,7 +702,7 @@ elif menu == "Sessions":
                     "date_debut": date_debut,
                     "date_fin": date_fin,
                     "prix": str(prix),
-                    "cout_prevu": str(cout_prevu),
+                    
                 }
 
                 sessions = pd.concat([sessions, pd.DataFrame([new])], ignore_index=True)
@@ -1293,7 +1382,6 @@ elif menu == "BPF":
             recap["nb_stagiaires"] = 0
 
         recap["prix_num"] = recap["prix"].apply(safe_float)
-        recap["cout_num"] = recap["cout_prevu"].apply(safe_float)
         recap["marge_prevue"] = recap["prix_num"] - recap["cout_num"]
 
         col1, col2, col3, col4 = st.columns(4)
