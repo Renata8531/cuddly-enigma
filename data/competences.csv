@@ -1,0 +1,42 @@
+﻿competence_id,referentiel_id,epreuve,bloc,section,code_competence,competence,famille,niveau,actif
+COMP_644A4DE8,R0001,EP1,Gérer la réception des produits,Gérer la réception des produits,C1.1,Contrôler la livraison,Production,,True
+COMP_7E3ACC56,R0001,EP1,Gérer la réception des produits,Gérer la réception des produits,C1.2,"Retirer l’emballage du transport, déconditionner les produits si nécessaire et traiter les déchets",Production,,True
+COMP_FA4ECD1D,R0001,EP1,Organiser ses tâches,Organiser ses tâches,C2.1,Se situer en tant que professionnel dans l’organisation,Production,,True
+COMP_50FF7761,R0001,EP1,Organiser ses tâches,Organiser ses tâches,C2.2,Analyser la fiche technique et utiliser son carnet de recettes personnel,Production,,True
+COMP_0B52C563,R0001,EP1,Nettoyer et désinfecter l’environne-ment de travail,Nettoyer et désinfecter l’environne-ment de travail,C2.6,"Maintenir les locaux et les matériels en bon état tout au long des activités : ranger, net-toyer, désinfecter",Production,,True
+COMP_41D9B6AB,R0001,EP1,Nettoyer et désinfecter l’environne-ment de travail,Nettoyer et désinfecter l’environne-ment de travail,C2.7,Agir en respectant l’environnement,Production,,True
+COMP_11A72266,R0001,EP1,Gérer les produits en cours d’élaboration et finis,Gérer les produits en cours d’élaboration et finis,C2.8,Protéger et/ou conditionner les produits en cours d’élaboration et effectuer leur traçabilité,Production,,True
+COMP_5EE158D0,R0001,EP1,Gérer les produits en cours d’élaboration et finis,Gérer les produits en cours d’élaboration et finis,C2.9,Conserver les produits en cours d’élaboration ou finis dans les enceintes appropriées,Production,,True
+COMP_CB1D79CA,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.4.1,Elaborer une pâte levée,Production,,True
+COMP_D58B2B3B,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.4.2,Elaborer une pâte levée et feuilletée,Production,,True
+COMP_6AD08C95,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.5,Élaborer une pâte battue/crémée (gâteaux de voyage),Production,,True
+COMP_C1B8411C,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.6,Élaborer une pâte feuilletée,Production,,True
+COMP_47DC85B2,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.7.1,Élaborer une pâte friable brisée,Production,,True
+COMP_7224499B,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.7.2,Élaborer une pâte friable sablée,Production,,True
+COMP_9881524F,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.8,Garnir,Production,,True
+COMP_A97DC107,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.9.1,Réaliser les finitions avant cuisson,Production,,True
+COMP_E0551DA4,R0001,EP1,Pâtisserie à partir de pâtes,Pâtisserie à partir de pâtes,C3.9.2,Réaliser les finitions après cuisson,Production,,True
+COMP_BB392C08,R0001,EP1,,,C3.10,Mener une cuisson au four,Production,,True
+COMP_E3C546AF,R0001,EP1,Analyse de la production réalisée,Analyse de la production réalisée,C3.16,Identifier les causes des éventuels défauts constatés,Production,,True
+COMP_7C500478,R0001,EP2,,,C4.1,Ordonnancer les tâches de manière rationnelle,Production,,True
+COMP_8D49BE83,R0001,EP2,,,C4.2,Gérer le poste de travail,Production,,True
+COMP_DFF84A7D,R0001,EP2,Crèmes et appareils de base,Crèmes et appareils de base,C4.3.1,Fabriquer les crèmes et appareils de base : crème pâtissière,Production,,True
+COMP_36149C75,R0001,EP2,Crèmes et appareils dérivés,Crèmes et appareils dérivés,C4.4.2,Élaborer les crèmes et appareils dérivés : crème mousseline,Production,,True
+COMP_4C47A9E1,R0001,EP2,Mousses et bavaroises,Mousses et bavaroises,C4.5.4,Préparer des bavaroises à base de lait,Production,,True
+COMP_EB1B4A8C,R0001,EP2,Appareils croustillants,Appareils croustillants,C4.6,Élaborer un croustillant à base de matières premières,Production,,True
+COMP_876ADFB6,R0001,EP2,Garniture à base de fruits,Garniture à base de fruits,C4.7.1,Réaliser la garniture à base de fruits frais (entiers ou découpés),Production,,True
+COMP_103847BD,R0001,EP2,Fonds à base de pâte,Fonds à base de pâte,C5.1,"Élaborer, coucher, dorer si besoin et cuire un fond à base de pâte à choux",Production,,True
+COMP_1E3AC628,R0001,EP2,Fonds à base de pâte,Fonds à base de pâte,C5.2.3,Préparer un fond à base biscuit meringué puis mener la cuisson après dressage si besoin,Production,,True
+COMP_D56B44DF,R0001,EP2,,,C6.1,Effectuer des montages avec des cercles ou des moules,Production,,True
+COMP_9F525E8B,R0001,EP2,,,C6.3,Adapter un montage et/ou une garniture selon la commande,Production,,True
+COMP_FE29CA29,R0001,EP2,Glaçages,Glaçages,C6.4.1,Confectionner un glaçage selon le gâteau,Production,,True
+COMP_5B16BCFA,R0001,EP2,Glaçages,Glaçages,C6.4.3,Confectionner un glaçage miroir selon le gâteau,Production,,True
+COMP_E9ED34D2,R0001,EP2,0,0,C6.5,Glacer un entremets ou un petit gâteau partiellement ou complètement,Production,,True
+COMP_F36E2610,R0001,EP2,Décors,Décors,C6.7,Modeler la pâte d’amandes pour créer des décors,Production,,True
+COMP_171449A6,R0001,EP2,,,C6.10.1,Fabriquer et utiliser un cornet,Production,,True
+COMP_9360A1AA,R0001,EP2,Ecritures,Ecritures,C6.10.2,Fabriquer et utiliser un cornet,Production,,True
+COMP_E21FA065,R0001,EP2,,,C6.11,Disposer les éléments de décor,Production,,True
+COMP_EE2024D5,R0001,EP2,Valoriser la pâtisserie élaborée,Valoriser la pâtisserie élaborée,C7.1,Justifier l’état de commercialisation d’un produit fini,Production,,True
+COMP_2D8C3FE4,R0001,EP2,Valoriser la pâtisserie élaborée,Valoriser la pâtisserie élaborée,C7.2,Valoriser la pâtisserie fabriquée au-près du personnel de vente,Production,,True
+COMP_34F3BECB,R0001,EP2,Mesurer le coût des produits fabriqués,Mesurer le coût des produits fabriqués,C7.3,Calculer le coût de la matière d’oeuvre nécessaire pour élaborer un gâteau,Production,,True
+COMP_70630688,R0001,EP2,Mesurer le coût des produits fabriqués,Mesurer le coût des produits fabriqués,C7.4,Identifier les facteurs ayant une incidence sur le coût de production et la fixation du prix de vente,Production,,True

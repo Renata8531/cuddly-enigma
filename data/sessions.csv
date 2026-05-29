@@ -1,0 +1,10 @@
+﻿session_id,programme_id,formateur_id,nom,date_debut,date_fin,prix,cout_prevu
+S0001,P0007,,Ma nouvelle gamme pâtissière - Master class Jonathan MOUGEL,2023-09-11 00:00:00,2023-09-11 00:00:00,564,
+S0002,P0001,F0001,Les macarons en individuel et entremets,,,,
+S0003,P0002,F0002,Bûches de Noël,,,564,
+S0004,P0003,,"Viennoiserie : Croissant, chocolatine et déclinaison",,,564,
+S0005,P0004,,CAP Pâtissier – Approfondissement Pôle 1,,,564,
+S0006,P0005,,CAP Pâtissier – Approfondissement Pôle 2,,,564,
+S0007,,,Approfondissement EP2,,,564,
+S0008,P0006,,CAP Pâtissier - UP1 : Petits fours,,,564.096,
+S0009,P0008,,CAP Pâtissier - UP2 : Entremets,,,564.096,

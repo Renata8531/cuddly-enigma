@@ -1,0 +1,24 @@
+﻿deroule_id,programme_id,pole_theme,activite,description,duree,titre_seance,type_activite,sous_activite
+DR0001,,"Tour, petits fours secs et moelleux, gâteaux de voyage",Accueil,"Café, thé, échange avec le formateur et mise en tenu pro",00:05:00,Accueil des participants,Documents,Auto-évaluation
+DR0002,,Déroulé de la formation,Tour de table,Tour de table avec les attentes spécifiques de chacun,00:05:00,Présentation des participants et du formateur,Documents,Auto-évaluation
+DR0003,,,Objectif,,00:10:00,Enoncez des objectifs de la formation,Nettoyage,
+DR0004,,,Documents,Auto-évaluation,00:10:00,Présentation des documents mis à disposition,C1.1,test1
+DR0005,,,Pause déjeuner,,00:45:00,Pause Déjeuner,C2.1,test5
+DR0006,,,Nettoyage,,00:30:00,Nettoyage,C3.1.1,test14
+DR0007,,,C1.1,test1,0.020833333333333332,Contrôler la livraison,C3.1.2,test15
+DR0008,,,C1.2,test2,0.020833333333333332,"Retirer l’emballage du transport, déconditionner les produits si nécessaire et traiter les déchets",C3.2.2,test17
+DR0009,,,C2.1,test5,0.0208333333333333,Se situer en tant que professionnel dans l’organisation,C3.3,test18
+DR0010,,Pédagogie,C2.2,test6,0.0208333333333333,Analyser la fiche technique et utiliser son carnet de recettes personnel,C3.13.1,test31
+DR0011,,"Café, thé, échange avec le formateur et mise en tenu pro",C3.1.1,test14,0.0208333333333333,Elaborer une crème par cuisson avec amidon,C3.13.2,test32
+DR0012,,Tour de table avec les attentes spécifiques de chacun,C3.1.2,test15,0.0208333333333333,Elaborer une crème par cuisson sans amidon,,
+DR0013,,Maitriser les bases des pâtes :,C3.2.1,test16,0.0208333333333333,Confectionner une crème d'amandes,,
+DR0014,,"-          Feuilletée, levé, levée feuilletée, tartes et tartelettes ainsi que des petits fours et gâteaux de voyages",C3.2.2,test17,0.0208333333333333,Confectionner une crème frangipane,,
+DR0015,,-        Organiser son travail,C3.3,test18,0.0208333333333333, Préparer un appareil à crème prise (salée et sucrée),,
+DR0016,,-        Choisir des matières premières,C3.13.1,test31,0.0208333333333333,Elaborer une meringue française adaptée à la fabrication,,
+DR0017,,-        Etablir son cahier de recette au format CAP,C3.13.2,test32,0.0208333333333333,Elaborer une meringue italienne adaptée à la fabrication,,
+DR0018,,Auto-évaluation,C3.13.3,test33,0.0208333333333333,Elaborer une meringue suisse adaptée à la fabrication,,
+DR0019,,,C3.14.1,test34,0.0208333333333333,Dresser et cuire une dacquoise,,
+DR0020,,Mise en œuvre de la pâte sablée par sablage et par crémage sur une base de 200g de farine,C3.14.2,test35,0.0208333333333333,Dresser et cuire des macarons,,
+DR0021,,"Mise en œuvre d’une pâte levée         (brioche, pain au lait) sur une base de 250g de farine",C3.14.3,test36,0.0208333333333333,Dresser et cuire un vacherin,,
+DR0022,,"Mise en œuvre de la pâte levée feuilletée (croissants, pains au chocolat, pains aux raisins) sur une base de 500g de farine",C3.14.4,test37,0.0208333333333333,Dresser et cuire une meringue pour décoration (tarte),,
+DR0023,,Mise en œuvre de la pâte feuilletée pour la confection de chaussons aux pommes sur une base de 250g de farine,C3.16,test39,0.0208333333333333,Identifier les causes des éventuels défauts constatés,,

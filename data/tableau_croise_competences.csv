@@ -1,0 +1,416 @@
+﻿theme,code,competence,mots_cles,resultats_attendus,recettes_associees
+Thèmes CAP,CAP,Compléments indispensables CAP,Compétences = Mots clés,Résultats attendus,"Application de la compétence avec quelles recettes ? 
+pour le programme prévu"
+Gérer la réception des produits,C1.1,Contrôler la livraison,"Les outils de contrôle de température et de poids
+Les points de vigilance relatifs à la qualité des produits
+Les documents commerciaux liés à la commande et à la livraison
+L’étiquetage
+Les fournisseurs","Vérification sous l’autorité d’un responsable :
+- adéquation qualité et quantité entre le
+produit commandé et le produit livré
+- température des marchandises
+- durée de conservation
+Détection des anomalies et signalement à la
+hiérarchie
+Application des règles d’hygiène et de sécurité",
+Gérer la réception des produits,C1.2,"Retirer l’emballage du transport, déconditionner les produits si nécessaire et traiter les déchets","Les types d’emballage et de conditionnement
+La réglementation en vigueur pour le tri sélectif des emballages
+La réglementation en vigueur pour la traçabilité des produits","Respect des protocoles établis par le fabricant
+et/ou l’entreprise
+Collecte des informations nécessaires à la
+traçabilité
+Gestion du tri sélectif des emballages",
+Effectuer le suivi des produits stockés,C1.3,Ranger les produits dans les lieux adaptés et sur les supports appropriés,"Les différentes catégories de produits : - secs - réfrigérés - congelés
+Les lieux de stockage
+Le respect de la chaîne du froid","Stockage adapté aux produits dans le respect
+des consignes
+Rotation appropriée des stocks
+Détection des anomalies et signalement à la
+hiérarchie
+Application des règles d’hygiène et de sécurité",
+Effectuer le suivi des produits stockés,C1.4,Rendre compte de l’état des stocks,Les stocks minimum et d’alerte,"Vigilance sur l’état des stocks pour éviter les
+ruptures et transmission de l’information ",
+Organiser ses tâches,C2.1,Se situer en tant que professionnel dans l’organisation,"Les postes de travail au sein de l’atelier de production
+La hiérarchie selon le type d’organisation","Identification des liens fonctionnels et
+hiérarchiques au sein de l’organisation",
+Organiser ses tâches,C2.2,Analyser la fiche technique et utiliser son carnet de recettes personnel,"La fiche technique
+Le carnet de recettes","Identification des informations nécessaires à la
+production
+Respect de l’enchainement des différentes
+phases",
+Préparer le poste de travail,C2.3,Sélectionner le matériel en fonction d’une production à réaliser,Les matériels et ustensiles utilisés en pâtisserie,"Pertinence du choix du matériel
+Identification et respect des dispositifs de
+sécurité",
+Préparer le poste de travail,C2.4,Rassembler les produits nécessaires à la réalisation d’une production,"L’étiquette
+La durée et les conditions de conservation des produits entamés 
+L’étiquetage des produits entamés","Conformité des produits rassemblés
+Gestion des produits entamés conforme à la
+réglementation",
+Préparer le poste de travail,C2.5,Quantifier et effectuer les pesées,"Les unités de mesure de masse et de volume
+Les matériels de pesée",Exactitude des quantités,
+Nettoyer et désinfecter l’environne-ment de travail,C2.6,"Maintenir les locaux et les matériels en bon état tout au long des activités : ranger, net-toyer, désinfecter","Le guide des bonnes pratiques d’hygiène
+Les risques de contamination
+Les produits de nettoyage et de désinfection","Vérification de l’état des locaux et matériels tout
+au long de l’activité
+Respect des procédures et protocoles liés au
+guide de bonnes pratiques d’hygiène",
+Nettoyer et désinfecter l’environne-ment de travail,C2.7,Agir en respectant l’environnement,Les pratiques professionnelles respectueuses de l’environnement,"Utilisation raisonnée des produits de nettoyage
+et de désinfection, des fluides (eau) et des
+énergies (gaz et électricité)",
+Gérer les produits en cours d’élaboration et finis,C2.8,Protéger et/ou conditionner les produits en cours d’élaboration et effectuer leur traçabilité,"Les différents types d’emballage
+L’étiquetage des produits en cours d’élaboration et finis","Sélection de la protection et/ou du
+conditionnement adapté(s)
+Conformité de l’étiquetage",
+Gérer les produits en cours d’élaboration et finis,C2.9,Conserver les produits en cours d’élaboration ou finis dans les enceintes appropriées,Les températures de conservation des produits en cours d’élaboration et des produits finis,,
+Crèmes et appareils à crème prise,C3.1.1,Elaborer une crème par cuisson avec amidon,"Crème pâtissière, appareil à flan","Respect du procédé d’élaboration
+Conformité de la texture (lisse, onctueuse) et
+du parfum
+Homogénéité du mélange",A2
+Crèmes et appareils à crème prise,C3.1.2,Elaborer une crème par cuisson sans amidon,"Crème orange, crème citron","Respect du procédé d’élaboration
+Conformité de la texture (lisse, onctueuse) et
+du parfum
+Homogénéité du mélange",A6
+Crèmes et appareils à crème prise,C3.2.1,Confectionner une crème d'amandes,Crème d'amandes,"Respect du procédé d’élaboration
+Conformité de la texture (lisse, onctueuse) et
+du parfum
+Homogénéité du mélange",A1
+Crèmes et appareils à crème prise,C3.2.2,Confectionner une crème frangipane,Crème frangipane,"Respect du procédé d’élaboration
+Conformité de la texture (lisse, onctueuse) et
+du parfum
+Homogénéité du mélange",A1
+Crèmes et appareils à crème prise,C3.3, Préparer un appareil à crème prise (salée et sucrée),Appareil à crème prise,"Respect du procédé d’élaboration
+Conformité de la texture (lisse, onctueuse) et
+du parfum
+Homogénéité du mélange",A22
+Pâtisserie à partir de pâtes,C3.4.1,Elaborer une pâte levée,Pâte levée,"Respect des étapes d’élaboration
+Qualité et dextérité du geste de façonnage
+Conformité de :
+- la texture et de l’aspect (lisse, fermeté
+adaptée à la nature de la pâte)
+- la qualité du pétrissage (élasticité de
+la pâte)
+- la régularité et la netteté du produit
+- la régularité du tourage (pâte levée
+feuilletée)
+- la qualité de la fermentation (volume,
+alvéolage)",A13
+Pâtisserie à partir de pâtes,C3.4.2,Elaborer une pâte levée et feuilletée,Pâte levée et feuilletée,"Respect des étapes d’élaboration
+Qualité et dextérité du geste de façonnage
+Conformité de :
+- la texture et de l’aspect (lisse, fermeté
+adaptée à la nature de la pâte)
+- la qualité du pétrissage (élasticité de
+la pâte)
+- la régularité et la netteté du produit
+- la régularité du tourage (pâte levée
+feuilletée)
+- la qualité de la fermentation (volume,
+alvéolage)",A3
+Pâtisserie à partir de pâtes,C3.5,Élaborer une pâte battue/crémée (gâteaux de voyage),Pâtes battues/crémées ,"Respect des étapes d’élaboration
+Conformité de :
+- la texture et l’aspect (souple et
+homogène) du mélange
+- la régularité et la netteté du produit
+- la forme",A37
+Pâtisserie à partir de pâtes,C3.6,Élaborer une pâte feuilletée,Pâte feuilletée,"Respect des étapes d’élaboration
+Qualité de l’hydratation
+Homogénéité de la pâte
+Respect des règles d’incorporation des ma-
+tières grasses
+Régularité du tourage (pâte feuilletée)
+Conformité et régularité de l’épaisseur et des
+formes obtenues
+Utilisation rationnelle de la pâte",A5
+Pâtisserie à partir de pâtes,C3.7.1,Élaborer une pâte friable brisée,Pâte brisée,,A22
+Pâtisserie à partir de pâtes,C3.7.2,Élaborer une pâte friable sablée,Pâte sablée,,A1
+Pâtisserie à partir de pâtes,C3.8,Garnir,"Garnir avec des fruits frais, secs et transformés","Équilibre et régularité de la garniture
+Appétence et harmonie de la garniture",A1
+Pâtisserie à partir de pâtes,C3.9.1,Réaliser les finitions avant cuisson,"Finitions avant cuisson : dorer, rayer, sucrer…","Finesse, régularité et précision de la finition",A1
+Pâtisserie à partir de pâtes,C3.9.2,Réaliser les finitions après cuisson,"Finitions après cuisson : napper, glacer, décorer…","Finesse, régularité et précision de la finition",A1
+,C3.10,Mener une cuisson au four,,"Température et temps adaptés à la cuisson
+souhaitée selon le matériel utilisé",X
+Petits fours secs et moelleux,C3.11,Elaborer un appareil spécifique à petits fours,Petits fours,"Selon le type de recette :
+- respect des étapes d’élaboration
+- conformité de la texture et de l’aspect du
+mélange",A34
+,C3.12,Finition des petits fours,,"Selon le type de recette, conformité de la forme,
+de la régularité et de la netteté du produit",A34
+Meringues,C3.13.1,Elaborer une meringue française adaptée à la fabrication,Meringue française,"Respect des étapes d’élaboration
+Conformité de :
+- la tenue (ferme),
+- l’aspect (lisse et homogène)",A25
+Meringues,C3.13.2,Elaborer une meringue italienne adaptée à la fabrication,Meringue italienne,"Respect des étapes d’élaboration
+Conformité de :
+- la tenue (ferme),
+- l’aspect (lisse et homogène)",A6
+Meringues,C3.13.3,Elaborer une meringue suisse adaptée à la fabrication,Meringue suisse,"Respect des étapes d’élaboration
+Conformité de :
+- la tenue (ferme),
+- l’aspect (lisse et homogène)",A39
+Meringues,C3.14.1,Dresser et cuire une dacquoise,Meringue et dacquoise,"Régularité et netteté du produit dressé
+Cuisson adaptée selon l’utilisation de la
+meringue",A25
+Meringues,C3.14.2,Dresser et cuire des macarons,Meringue et macaron,"Régularité et netteté du produit dressé
+Cuisson adaptée selon l’utilisation de la
+meringue",A9
+Meringues,C3.14.3,Dresser et cuire un vacherin,Meringue et vacherin,"Régularité et netteté du produit dressé
+Cuisson adaptée selon l’utilisation de la
+meringue",A26
+Meringues,C3.14.4,Dresser et cuire une meringue pour décoration (tarte),Meringue et décoration (sur tarte),"Régularité et netteté du produit dressé
+Cuisson adaptée selon l’utilisation de la
+meringue",A6
+Analyse de la production réalisée,C3.15,Apprécier la qualité organoleptique du produit réalisé et sa conformité,,"Conformité de l’analyse organoleptique
+Exactitude de l’analyse
+Pertinence de la justification",X
+Analyse de la production réalisée,C3.16,Identifier les causes des éventuels défauts constatés,,Pertinence de l’analyse des défauts éventuels ,X
+,C4.1,Ordonnancer les tâches de manière rationnelle,Schéma d'ordonnancement,"Identification des éléments essentiels des
+fiches techniques
+Cohérence de l’enchaînement des différentes
+étapes de production
+Estimation appropriée du temps nécessaire
+pour chaque production",X
+,C4.2,Gérer le poste de travail,HACCP et 5M,"Sélection adaptée aux objectifs de production :
+- des matières d’œuvre
+- des matériels et équipements
+Application des protocoles de traçabilité tout au
+long de la production
+Gestion des déchets produits selon les règles
+de tri sélectif
+Respect des règles, d’hygiène de nettoyage et
+de sécurité tout au long de la production",X
+Crèmes et appareils de base,C4.3.1,Fabriquer les crèmes et appareils de base : crème pâtissière,crème pâtissière,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A2
+Crèmes et appareils de base,C4.3.2,Fabriquer les crèmes et appareils de base : crème anglaise,crème anglaise,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A4
+Crèmes et appareils de base,C4.3.3,Fabriquer les crèmes et appareils de base : crème au beurre,crème au beurre,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A32
+Crèmes et appareils de base,C4.3.4,Fabriquer les crèmes et appareils de base :  chantilly,crème chantilly,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A7
+Crèmes et appareils de base,C4.3.5,Fabriquer les crèmes et appareils de base : ganache,ganache,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A16
+Crèmes et appareils dérivés,C4.4.1,Élaborer les crèmes et appareils dérivés : crème chiboust,chiboust,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A17
+Crèmes et appareils dérivés,C4.4.2,Élaborer les crèmes et appareils dérivés : crème mousseline,mousseline,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A14
+Crèmes et appareils dérivés,C4.4.3,Élaborer les crèmes et appareils dérivés : crème diplomate,diplomate,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A7
+Crèmes et appareils dérivés,C4.4.4,"Élaborer les crèmes et appareils dérivés : crémeux (à base de fruits, de lait et de crème)","crémeux à base de fruits, de lait et de crème","Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A6
+Crèmes et appareils dérivés,C4.4.5,Élaborer les crèmes et appareils dérivés : pâte à bombe,Pâte à bombe,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A31
+Mousses et bavaroises,C4.5.1,Préparer des mousses à base de fruits,mousses à base de fruits,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A11
+Mousses et bavaroises,C4.5.2,Préparer des bavaroises à base de fruits,bavaroise à base de fruits,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A4
+Mousses et bavaroises,C4.5.3,Préparer des mousses à base de lait,mousses à base de lait,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A4
+Mousses et bavaroises,C4.5.4,Préparer des bavaroises à base de lait,bavaroise à base de lait,"Respect du procédé d’élaboration
+Conformité :
+- de la texture (lisse, onctueuse)
+- de la structure attendue (ferme,
+molle, aérée...)
+- du parfum
+Homogénéité du mélange",A4
+Appareils croustillants,C4.6,Élaborer un croustillant à base de matières premières,"Croustillant (fruits secs, céréales, crêpes dentelle, crumble …)","Conformité de la texture
+Goût caractéristique de la saveur demandée
+Durabilité du croustillant",A25
+Garniture à base de fruits,C4.7.1,Réaliser la garniture à base de fruits frais (entiers ou découpés),Garniture à base de fruits frais (entiers ou découpés),"Conformité de la garniture selon la production
+demandée
+Travail du fruit adapté à la préparation réalisée",A6
+Garniture à base de fruits,C4.7.2,Réaliser la garniture à base de produits élaborés (fruits caramélisés ou flambés),Garniture à base de produits élaborés (fruits caramélisés ou flambés),"Conformité de la garniture selon la production
+demandée
+Travail du fruit adapté à la préparation réalisée",A4
+Garniture à base de fruits,C4.7.3,"Réaliser la garniture à base de produits semi-élaborés (compotées, confitures, coulis gélifiés)","Garniture à base de produits semi-élaborés (compotées, confitures, coulis gélifiés)","Conformité de la garniture selon la production
+demandée
+Travail du fruit adapté à la préparation réalisée",A10
+Fonds à base de pâte,C5.1,"Élaborer, coucher, dorer si besoin et cuire un fond à base de pâte à choux",Fonds à base de pâte à choux,"Respect du procédé d’élaboration
+Conformité de la :
+- texture
+- structure attendue
+Respect de la forme désirée selon la destination",A2
+Fonds à base de pâte,C5.2.1,"Préparer un fond à base de génoise, et/ou de biscuit cuillère puis mener la cuisson après dressage si besoin","Fonds à base de génoise, et/ou de biscuit cuillère","Respect du procédé d’élaboration
+Conformité de la :
+- texture
+- structure attendue
+Respect de la forme désirée selon la destination",A4
+Fonds à base de pâte,C5.2.2,Préparer un fond à base Joconde puis mener la cuisson après dressage si besoin,Fonds Joconde,"Respect du procédé d’élaboration
+Conformité de la :
+- texture
+- structure attendue
+Respect de la forme désirée selon la destination",A32
+Fonds à base de pâte,C5.2.3,Préparer un fond à base biscuit meringué puis mener la cuisson après dressage si besoin,Fonds meringué,"Respect du procédé d’élaboration
+Conformité de la :
+- texture
+- structure attendue
+Respect de la forme désirée selon la destination",A32
+Fonds à base de pâte,C5.3,Abaisser et cuire un fond à base de pâte friable,Fonds de pâte friable,"Respect du procédé d’élaboration
+Conformité de la :
+- texture
+- structure attendue
+Respect de la forme désirée selon la destination",A1
+,C6.1,Effectuer des montages avec des cercles ou des moules,,"Dextérité du geste
+Sélection adaptée du matériel
+Respect du schéma de montage
+Régularité et netteté du produit fini
+Respect de la forme demandée",A4
+,C6.2,Réaliser des montages à la palette et/ou garnir à la poche,,"Dextérité du geste
+Sélection adaptée du matériel
+Respect du schéma de montage
+Régularité et netteté du produit fini
+Respect de la forme demandée",A9
+,C6.3,Adapter un montage et/ou une garniture selon la commande,,"Dextérité du geste
+Sélection adaptée du matériel
+Respect du schéma de montage
+Régularité et netteté du produit fini
+Respect de la forme demandée",A11
+Glaçages,C6.4.1,Confectionner un glaçage selon le gâteau,Les techniques de glaçage," Conformité de l’homogénéité, de la fluidité et de
+la texture du glaçage",
+Glaçages,C6.4.2,Confectionner un glaçage selon le gâteau,Les différents type de glaçage ? Voir ci-dessous,"Conformité de l’homogénéité, de la fluidité et de
+la texture du glaçage",
+Glaçages,C6.4.3,Confectionner un glaçage miroir selon le gâteau,glaçage miroir,"Conformité de l’homogénéité, de la fluidité et de
+la texture du glaçage",A25
+Glaçages,C6.4.4,Confectionner un glaçage royal selon le gâteau,glaçage royal ou blanc,"Conformité de l’homogénéité, de la fluidité et de
+la texture du glaçage",
+Glaçages,C6.4.5,Confectionner un glaçage au beurre selon le gâteau,glaçage au beurre,"Conformité de l’homogénéité, de la fluidité et de
+la texture du glaçage",
+,C6.5,Glacer un entremets ou un petit gâteau partiellement ou complètement,,"Dextérité du geste
+Régularité, brillance et finesse du glaçage",A25
+Décors,C6.6,Tempérer le chocolat et préparer les éléments de décor,En chocolat,"Fluidité du chocolat après tempérage
+Brillance, texture lisse et cassante du décor
+réalisé
+Finesse et régularité des décors",A33
+Décors,C6.7,Modeler la pâte d’amandes pour créer des décors,En pâte d'amandes,"Dextérité du geste
+Conformité et finesse du décor réalisé",A14
+Décors,C6.8,Réaliser des décors à base de nougatine,En nougatine,"Conformité de la cuisson
+Habileté du geste lors de la découpe et du
+façonnage
+Qualités visuelle et gustative",A26
+Décors,C6.9,"Confectionner des décors à base de sucre (glace royale, sucre coulé, caramel)","en sucre (glace royale, sucre coulé, caramel)","Conformité de la préparation et éventuellement
+de la cuisson
+Qualité visuelle",A38
+,C6.10.1,Fabriquer et utiliser un cornet,,"Dextérité lors de la confection du cornet
+Habileté lors de l’écriture et du décor au cornet
+Qualité du tracé fin, régulier, esthétique et lisible",A5
+Ecritures,C6.10.2,Fabriquer et utiliser un cornet,Les différents type d'écriture ?,"Dextérité lors de la confection du cornet
+Habileté lors de l’écriture et du décor au cornet
+Qualité du tracé fin, régulier, esthétique et lisible",A5
+,C6.11,Disposer les éléments de décor,,"Équilibre et harmonie du décor
+Qualité visuelle suscitant l’envie de déguster
+Respect du thème, de la composition et de
+l’identité du gâteau",A5
+Valoriser la pâtisserie élaborée,C7.1,Justifier l’état de commercialisation d’un produit fini,"Les descripteurs de qualité :
+Identifier les exigences en termes de : - présentation, équilibre visuel, esthétisme selon l’entremets ou les petits gâteaux réalisés, 
+- facilité de découpe et de dégustation, 
+- attendus au niveau des saveurs, des textures, 
+- fraîcheur, conservation et durée de vie du produit. 
+Utiliser le vocabulaire professionnel adapté.
+Les défauts possibles de fabrication
+Expliquer de manière technique les phases d’élaboration du produit fini. 
+Repérer et analyser les défauts éventuels de fabrication. 
+Expliciter les causes possibles et proposer des actions correctives à mener.","Analyse organoleptique argumentée :
+- aspect et odeur appétissants
+- goût équilibré et harmonieux",
+Valoriser la pâtisserie élaborée,C7.2,Valoriser la pâtisserie fabriquée au-près du personnel de vente,"La communication interne 
+Adapter : - la description du produit fini aux besoins du personnel de vente, 
+- sa communication selon le type d’entreprise et son secteur d’activité. 
+La composition d’un produit fini 
+Préciser l’ensemble des produits utilisés pour l’élaboration du produit fini. 
+Repérer les allergènes contenus dans le produit fini selon la réglementation en vigueur. 
+Les caractéristiques pouvant aider à l’argumentaire de vente
+Présenter de manière concise les avantages du produit fini en matière de : 
+- qualité organoleptique, 
+- sélection des produits utilisés (saisonnalité, terroir, circuit court, labels, culture raisonnée/bio…), 
+- qualité nutritionnelle du produit fini, - spécialité ou spécificité régionale, 
+- événements calendaires ou publicitaires. 
+S’appuyer sur l’évolution de la pâtisserie, les pâtissiers emblématiques et les anecdotes pour présenter le produit élaboré. 
+Adapter l’argumentaire à l’image de l’entreprise.","Clarté, précision, fiabilité et concision des
+informations transmises",
+Mesurer le coût des produits fabriqués,C7.3,Calculer le coût de la matière d’oeuvre nécessaire pour élaborer un gâteau,"Le coût de revient
+Identifier, quantifier et valoriser (à l’aide d’une mercuriale actualisée) les éléments constitutifs du coût de revient. 
+Mesurer l’impact de l’évolution des prix des matières premières selon les cours du marché. 
+Calculer le coût de revient à l’aide d’un tableur. 
+Les pertes à la cuisson et la découpe
+Mesurer l’incidence des pertes à la cuisson et à la découpe sur le coût de revient.",Exactitude de la démarche,
+Mesurer le coût des produits fabriqués,C7.4,Identifier les facteurs ayant une incidence sur le coût de production et la fixation du prix de vente,"Le coût de production 
+Mesurer l’importance des charges incombant sur le coût de production. 
+Les impôts et taxes 
+Identifier et caractériser les taxes supportées par le pâtissier. 
+La marge 
+Analyser la marge obtenue et mesurer : 
+- l’incidence du volume de production sur le coût de revient et, en conséquence, sur la marge de l’entreprise, 
+- l’impact des erreurs lors de la production et des invendus, 
+- l’impact des saisons, des régions, de la fréquence de consommation et des événements calendaires ou publicitaires sur la vente des produits, des tendances. 
+La fixation du prix de vente 
+Repérer les éléments qui permettent de fixer le prix de vente : 
+- les éléments constitutifs du prix de vente, 
+- le positionnement de la concurrence (selon le secteur d’activité économique) et de l’entreprise sur le marché local.","Identification pertinente des :
+- éléments constitutifs des indicateurs
+calculés
+- facteurs internes et/ou externes ayant
+une incidence sur le volume des
+ventes",

@@ -1,0 +1,27 @@
+﻿stagiaire_id,session_id,nom,email,entreprise,lien_unique
+ST0001,S0001,Bellisinte RAHIS,bellisinte@gmail.com,"Pâtisserie, salon de thé SINGULIER",a490730aa3c5
+ST0002,S0001,Romain GAY,bellisinte@gmail.com,"Pâtisserie, salon de thé SINGULIER",f184afdabd9c
+ST0003,S0001,Quentin COSTES-ROLLES,quentin.costes.rolles@gmail.com,SAS VALMONT,a0de11b86488
+ST0004,,Romain BOYER,quentin.costes.rolles@gmail.com,SAS VALMONT,7a7d522b0d8a
+ST0005,,Jérôme VALIN-SAUNAL,j.valinsaunal@hotmail.fr,JVS PATISSERIE,11aa95880b6b
+ST0006,,Lucile TAUZIAC-TARTARIN,luciles.patisserie@gmail.com,SAS LUCILES PATISSERIE,da7652728dce
+ST0007,,Lucile PARRA,luciles.patisserie@gmail.com,SAS LUCILES PATISSERIE,306afb90c873
+ST0008,,Alexandra LOPEZ,lepetittrianon.mycake@gmail.com,LE PETIT TRIANON,b8f6329205fe
+ST0009,,Bruno BARTHE,brumat@orange.fr,SARL BRUMAT,fa6bb1424632
+ST0010,,Clémentine DUSSAUSSOIS,brumat@orange.fr,SARL BRUMAT,4c90cf4c0801
+ST0011,,Thomas DEGRANGE,brumat@orange.fr,SARL BRUMAT,c8157dffed06
+ST0012,,Joann REIGNEY,brumat@orange.fr,SARL BRUMAT,5b2e5c85f121
+ST0013,,Steeve Tourgon,s.tourgon@gmail.com,LE TRIO,601e252a5117
+ST0014,,Hervé BOURG,herve.bourg@yahoo.com,LA VERRIERE,cab58e1db926
+ST0015,,lilian DEFFREIX,herve.bourg@yahoo.com,LA VERRIERE,118babef66f5
+ST0016,,Martin ducassé-GAMBIER,herve.bourg@yahoo.com,LA VERRIERE,e1476d4aaef5
+ST0017,,Georges MYEMECK,herve.bourg@yahoo.com,LA VERRIERE,5c26c888464c
+ST0018,,Florimont DESMEDT,,Pâtisserie DESMEDT,43707943fbbc
+ST0019,,Pascal GELIS,alexandrine@maisongelis.fr,SARL GELIS,ba8a149bab88
+ST0020,,Elodie BOLIS,elolambert@gmail.com,Ô MON GATÔ,d5478a705bde
+ST0021,,ROUSSEU GUILLAUME,,SAS ROUSSEU GUILLAUME,c7a2be8e8fb4
+ST0022,,YVES JEHANNE,,YVES JEHANNE PATISSERIE BOULANGERIE,83156679cf88
+ST0023,,Yannick BENOIT,,PATISSERIE BENOIT,68737cbed683
+ST0024,,Marce - Cros Claudine,aux-mille-pains@orange.fr,SARL AUX MILLE PAINS,76260dce1911
+ST0025,,Cros Corentin,aux-mille-pains@orange.fr,SARL AUX MILLE PAINS,5942ac8aac73
+ST0026,,SHIPP Magali,aux-mille-pains@orange.fr,SARL AUX MILLE PAINS,b0c7bc1d2a1b
