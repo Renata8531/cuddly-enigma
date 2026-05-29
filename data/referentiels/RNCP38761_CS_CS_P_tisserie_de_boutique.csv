@@ -1,0 +1,14 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_9D50C314,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_01,Réaliser les pâtes et appareils de base,Technique,1
+COMP_21BCF991,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_02,"Préparer des crèmes, dérivés de crèmes et fabrications glacées non turbinées",Technique,1
+COMP_FF6EFC6E,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_03,Transformer les fruits frais et secs,Technique,1
+COMP_5528B041,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_04,"Cuire les pâtes, crèmes et appareils",Technique,1
+COMP_BA2DDFC2,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_05,Assembler les éléments pour la production (montages et finitions),Technique,1
+COMP_2EBD3CD2,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_06,Mettre en valeur la production,Valorisation,1
+COMP_4793F7F2,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP1,"Production d'entremets, petits gâteaux, gâteaux de voyage, tartes et croquembouches",RNCP38761_EP1_07,"Maîtriser les règles d'hygiène, sécurité et gestion durable des ressources",Hygiène,1
+COMP_8CC27F01,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_01,Sélectionner les matières d'œuvre selon un cahier des charges,Organisation,1
+COMP_26098DD6,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_02,Gérer les techniques selon la fabrication,Organisation,1
+COMP_868138D9,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_03,Planifier sa production,Organisation,1
+COMP_75546C26,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_04,Communiquer et valoriser la production auprès du personnel de vente,Communication,1
+COMP_2C927ABD,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_05,Suivre et analyser la production,Analyse,1
+COMP_9C2A5B9F,RNCP38761,CS Pâtisserie de boutique,CS,3,31/08/2029,EP2,Optimisation de la production en pâtisserie,RNCP38761_EP2_06,Optimiser les coûts et réduire les pertes,Gestion,1

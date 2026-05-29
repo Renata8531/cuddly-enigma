@@ -1,0 +1,15 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_89D3497E,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_01,Gérer la réception des produits,Organisation,1
+COMP_784E95BB,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_02,Effectuer le suivi des produits stockés,Organisation,1
+COMP_FD17061D,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_03,Organiser son poste de travail,Organisation,1
+COMP_EA60ACEB,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_04,Appliquer les règles d'hygiène,Hygiène,1
+COMP_A05A8332,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_05,Élaborer des crèmes selon leur technique de fabrication,Technique,1
+COMP_4F42E20F,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_06,"Assurer la préparation, la cuisson et la finition de pâtisseries : à base de pâtes, petits fours secs et moelleux, meringues",Technique,1
+COMP_AD3046E7,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP1,Production de petits fours et gâteaux de voyage,RNCP38765_EP1_07,Évaluer sa production,Évaluation,1
+COMP_C2A97939,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_01,Organiser la production,Organisation,1
+COMP_E4F3E145,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_02,Préparer des éléments de garniture,Technique,1
+COMP_D9A1A0CF,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_03,Préparer les fonds d'un entremets et/ou des petits gâteaux,Technique,1
+COMP_6CE9648B,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_04,"Monter, garnir et glacer un entremets et/ou des petits gâteaux",Technique,1
+COMP_CC120C11,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_05,Décorer un entremets et/ou des petits gâteaux,Technique,1
+COMP_80FE97CC,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_06,Valoriser la pâtisserie élaborée,Valorisation,1
+COMP_EB540A4A,RNCP38765,CAP Pâtissier,CAP,3,31/08/2029,EP2,Production d'entremets et petits gâteaux,RNCP38765_EP2_07,Mesurer le coût des produits fabriqués,Gestion,1

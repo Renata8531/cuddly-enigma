@@ -1,0 +1,13 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_D248F306,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP1,"Technologie, sciences appliquées et gestion",RNCP37534_EP1_01,Identifier et caractériser les matières premières de la glacerie,Technologie,1
+COMP_269E733E,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP1,"Technologie, sciences appliquées et gestion",RNCP37534_EP1_02,Appliquer les principes de microbiologie et d'hygiène alimentaire,Sciences,1
+COMP_FDC57D6A,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP1,"Technologie, sciences appliquées et gestion",RNCP37534_EP1_03,"Maîtriser le fonctionnement des équipements : pasteurisateur, homogénéisateur, maturateur, surgélateur",Technologie,1
+COMP_E1362D53,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP1,"Technologie, sciences appliquées et gestion",RNCP37534_EP1_04,Calculer les coûts de production et gérer les stocks,Gestion,1
+COMP_B5E43CF7,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP1,"Technologie, sciences appliquées et gestion",RNCP37534_EP1_05,Organiser et planifier la production,Organisation,1
+COMP_94C735FE,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_01,"Réaliser les mix à turbiner : glaces, crèmes glacées, sorbets",Technique,1
+COMP_7DC36DA8,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_02,Produire des spécialités glacées et entremets glacés,Technique,1
+COMP_D7CB3723,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_03,"Fabriquer des produits non turbinés : parfaits, mousses glacées, nougats glacés",Technique,1
+COMP_A7864EDE,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_04,"Réaliser des coulis, sauces et décors pour la mise en valeur",Technique,1
+COMP_5B52AEAA,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_05,Conditionner et conserver les productions glacées,Technique,1
+COMP_5B3217C6,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_06,Présenter et valoriser les desserts glacés,Valorisation,1
+COMP_E931E99C,RNCP37534,CAP Glacier Fabricant,CAP,3,31/08/2027,EP2,Production et valorisation des desserts glacés,RNCP37534_EP2_07,Appliquer les règles HACCP spécifiques à la glacerie,Hygiène,1

@@ -1,0 +1,11 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_F9DFC598,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP1,Production de produits de chocolaterie,RNCP38762_EP1_01,Maîtriser les techniques de tempérage et de travail du chocolat,Technique,1
+COMP_9B685A93,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP1,Production de produits de chocolaterie,RNCP38762_EP1_02,Réaliser des bonbons de chocolat moulés et enrobés,Technique,1
+COMP_DCFD2320,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP1,Production de produits de chocolaterie,RNCP38762_EP1_03,Fabriquer des ganaches et intérieurs de qualité,Technique,1
+COMP_15AA3FA1,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP1,Production de produits de chocolaterie,RNCP38762_EP1_04,Produire des décors et pièces artistiques en chocolat,Technique,1
+COMP_E8328C00,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP1,Production de produits de chocolaterie,RNCP38762_EP1_05,Appliquer les règles d'hygiène et de conservation,Hygiène,1
+COMP_8E227E1C,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38762_EP2_01,Organiser et planifier la production de chocolaterie,Organisation,1
+COMP_8F9F8480,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38762_EP2_02,Sélectionner et doser les matières premières,Technique,1
+COMP_4FE8FBD8,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38762_EP2_03,Présenter et conditionner les produits pour la vente,Valorisation,1
+COMP_57319C80,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38762_EP2_04,Calculer les coûts et optimiser les productions,Gestion,1
+COMP_649A9599,RNCP38762,CS Chocolaterie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38762_EP2_05,Valoriser et argumenter la production auprès de la clientèle,Communication,1

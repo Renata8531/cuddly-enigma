@@ -1,0 +1,15 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_1A46851B,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_01,Gérer la réception et le stockage des matières premières,Organisation,1
+COMP_C01856B2,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_02,Organiser son poste de travail,Organisation,1
+COMP_C015A5CD,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_03,Appliquer les règles d'hygiène et de sécurité alimentaire,Hygiène,1
+COMP_1C109EE6,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_04,Réaliser les opérations de tempérage du chocolat,Technique,1
+COMP_529CAF15,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_05,"Fabriquer des ganaches, pralinés et gianduja",Technique,1
+COMP_74C0B0E3,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_06,"Réaliser des masses de confiserie : fondants, caramels, nougats, pâtes de fruits",Technique,1
+COMP_3F858BE0,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP1,Fabrication des masses de base,RNCP38632_EP1_07,Contrôler la qualité des masses produites,Évaluation,1
+COMP_0D6259AC,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_01,Réaliser le moulage et le démoulage de pièces en chocolat,Technique,1
+COMP_997B3F0D,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_02,Enrober des produits de chocolaterie et de confiserie,Technique,1
+COMP_45F20D9D,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_03,Assembler et garnir des pièces de chocolaterie,Technique,1
+COMP_6321702B,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_04,Réaliser des décors à base de chocolat,Technique,1
+COMP_1B2DD1BA,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_05,Confectionner des bonbons de chocolat et confiseries,Technique,1
+COMP_D315A992,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_06,Présenter et mettre en valeur les produits finis,Valorisation,1
+COMP_84835638,RNCP38632,CAP Chocolaterie-Confiserie,CAP,3,31/08/2029,EP2,Confection et valorisation des produits finis,RNCP38632_EP2_07,Conditionner les produits avant commercialisation,Gestion,1

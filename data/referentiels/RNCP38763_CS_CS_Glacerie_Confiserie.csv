@@ -1,0 +1,11 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_D6C6A500,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP1,Production de produits de glacerie et confiserie,RNCP38763_EP1_01,"Réaliser des glaces, sorbets et spécialités glacées artisanales",Technique,1
+COMP_C0508531,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP1,Production de produits de glacerie et confiserie,RNCP38763_EP1_02,Confectionner des entremets glacés et bûches glacées,Technique,1
+COMP_658C28B9,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP1,Production de produits de glacerie et confiserie,RNCP38763_EP1_03,"Produire des confiseries : caramels, nougats, pâtes de fruits, guimauves",Technique,1
+COMP_68EE60D7,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP1,Production de produits de glacerie et confiserie,RNCP38763_EP1_04,Maîtriser les équipements de production froide,Technique,1
+COMP_C0B4FE93,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP1,Production de produits de glacerie et confiserie,RNCP38763_EP1_05,Appliquer les règles HACCP en glacerie et confiserie,Hygiène,1
+COMP_14FF1EE6,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38763_EP2_01,Organiser et planifier les productions glacées et confiseries,Organisation,1
+COMP_FAA4C4FD,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38763_EP2_02,Adapter les recettes selon les saisons et les matières premières,Technique,1
+COMP_E1073BAA,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38763_EP2_03,Présenter et mettre en valeur les productions,Valorisation,1
+COMP_B215A2FD,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38763_EP2_04,Calculer les coûts et gérer les stocks,Gestion,1
+COMP_067611E7,RNCP38763,CS Glacerie-Confiserie,CS,3,31/08/2029,EP2,Optimisation et valorisation de la production,RNCP38763_EP2_05,Communiquer et valoriser les produits auprès de la vente,Communication,1

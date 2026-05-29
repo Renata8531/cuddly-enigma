@@ -1,0 +1,14 @@
+﻿competence_id,referentiel_id,intitule_ref,type,niveau,date_echeance,epreuve,section,code_competence,competence,famille,actif
+COMP_BC4F54AC,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_01,Gérer la réception et le stockage des matières premières,Organisation,1
+COMP_44A454BF,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_02,Organiser son poste de travail et planifier la production,Organisation,1
+COMP_4D9B79AC,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_03,Appliquer les règles d'hygiène et de sécurité,Hygiène,1
+COMP_D90B84D4,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_04,"Maîtriser les étapes de la panification : pétrissage, pointage, façonnage, fermentation, cuisson",Technique,1
+COMP_9ECC2B87,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_05,"Produire des pains courants français : baguette, pain de tradition",Technique,1
+COMP_2A1BCB14,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_06,"Produire des viennoiseries : croissants, pains au chocolat, brioches",Technique,1
+COMP_A7FC6D3D,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP1,Production de pains courants et viennoiseries,RNCP38597_EP1_07,Contrôler la qualité des productions,Évaluation,1
+COMP_CDD1AB46,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_01,"Produire des pains spéciaux : complet, céréales, seigle, levain",Technique,1
+COMP_A88472FF,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_02,Produire des pains régionaux et de spécialité,Technique,1
+COMP_465F1A49,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_03,Réaliser des produits de boulangerie fine et snacking,Technique,1
+COMP_AD3D38A3,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_04,Maîtriser les fermentations longues et la gestion du froid,Technique,1
+COMP_7DBAD102,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_05,Valoriser et présenter les productions,Valorisation,1
+COMP_15C4C8A2,RNCP38597,CAP Boulanger,CAP,3,31/08/2029,EP2,Production de pains spéciaux et boulangerie fine,RNCP38597_EP2_06,Estimer les coûts et gérer les pertes,Gestion,1
