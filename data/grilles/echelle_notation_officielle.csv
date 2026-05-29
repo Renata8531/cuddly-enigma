@@ -1,0 +1,5 @@
+﻿niveau,libelle,note_min,note_max,couleur
+DEB,Débutant,0,4.5,#EF4444
+EXE,Exécution,5,9.5,#F97316
+OPE,Opérationnel,10,14.5,#22C55E
+EXC,Excellent,15,20.0,#3B82F6

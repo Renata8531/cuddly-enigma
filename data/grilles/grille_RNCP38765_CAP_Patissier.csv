@@ -1,0 +1,65 @@
+﻿grille_id,referentiel_id,epreuve,competence_code,competence,famille,niveau_code,niveau_libelle,note_min,note_max,indicateur,critique
+GR_A3EB8F5F,RNCP38765,EP1,C1.1,Contrôler la livraison,Organisation,DEB,Débutant,0,4.5,"Ne vérifie pas la livraison, nombreuses erreurs non détectées",0
+GR_0E318F6F,RNCP38765,EP1,C1.1,Contrôler la livraison,Organisation,EXE,Exécution,5,9.5,"Vérifie partiellement, quelques erreurs détectées mais démarche incomplète",0
+GR_DA75331B,RNCP38765,EP1,C1.1,Contrôler la livraison,Organisation,OPE,Opérationnel,10,14.5,"Vérifie conformément aux procédures, signale les anomalies",0
+GR_B9141B37,RNCP38765,EP1,C1.1,Contrôler la livraison,Organisation,EXC,Excellent,15,20.0,"Contrôle rigoureux, propose des solutions en cas d'anomalie, anticipe",0
+GR_B922967D,RNCP38765,EP1,C1.2,Réceptionner et stocker les produits,Organisation,DEB,Débutant,0,4.5,Stockage non conforme aux règles de conservation et d'hygiène,0
+GR_F564F5B6,RNCP38765,EP1,C1.2,Réceptionner et stocker les produits,Organisation,EXE,Exécution,5,9.5,"Stockage globalement correct, quelques erreurs de rotation ou de température",0
+GR_F6B43B4F,RNCP38765,EP1,C1.2,Réceptionner et stocker les produits,Organisation,OPE,Opérationnel,10,14.5,"Stockage conforme, respect des règles FIFO et des températures réglementaires",0
+GR_FC102380,RNCP38765,EP1,C1.2,Réceptionner et stocker les produits,Organisation,EXC,Excellent,15,20.0,"Organisation optimale, traçabilité parfaite, anticipation des besoins",0
+GR_9B35D1B8,RNCP38765,EP1,C2.1,Organiser son poste de travail,Organisation,DEB,Débutant,0,4.5,"Poste non organisé, manque de matériel, perte de temps importante",0
+GR_060FED7A,RNCP38765,EP1,C2.1,Organiser son poste de travail,Organisation,EXE,Exécution,5,9.5,"Organisation partielle, quelques oublis, rythme lent",0
+GR_FA6FEE9E,RNCP38765,EP1,C2.1,Organiser son poste de travail,Organisation,OPE,Opérationnel,10,14.5,"Poste organisé, matériel prêt, respect du timing",0
+GR_B097E88E,RNCP38765,EP1,C2.1,Organiser son poste de travail,Organisation,EXC,Excellent,15,20.0,"Organisation exemplaire, anticipation totale, aucune perte de temps",0
+GR_B01A6B82,RNCP38765,EP1,C2.6,Maintenir les locaux et matériels en bon état (CRITIQUE),Hygiène,DEB,Débutant,0,4.5,"BLOQUANT — Hygiène insuffisante, produit non commercialisable. Note < 10 automatique",1
+GR_70C80427,RNCP38765,EP1,C2.6,Maintenir les locaux et matériels en bon état (CRITIQUE),Hygiène,EXE,Exécution,5,9.5,"Nettoyage partiel, quelques zones ou matériels négligés",1
+GR_EEDE50FF,RNCP38765,EP1,C2.6,Maintenir les locaux et matériels en bon état (CRITIQUE),Hygiène,OPE,Opérationnel,10,14.5,Nettoyage et désinfection corrects tout au long de la fabrication,1
+GR_6E6D9894,RNCP38765,EP1,C2.6,Maintenir les locaux et matériels en bon état (CRITIQUE),Hygiène,EXC,Excellent,15,20.0,"Hygiène irréprochable, démarche HACCP parfaitement intégrée",1
+GR_5031F6C6,RNCP38765,EP1,C3.1,Élaborer des crèmes par cuisson,Technique,DEB,Débutant,0,4.5,"Crème ratée ou non réalisée, texture incorrecte, cuisson inadaptée",0
+GR_964C47BB,RNCP38765,EP1,C3.1,Élaborer des crèmes par cuisson,Technique,EXE,Exécution,5,9.5,Crème réalisée mais texture ou goût perfectibles,0
+GR_9F741FC6,RNCP38765,EP1,C3.1,Élaborer des crèmes par cuisson,Technique,OPE,Opérationnel,10,14.5,"Crème conforme, bonne texture, cuisson maîtrisée",0
+GR_6E1C83AA,RNCP38765,EP1,C3.1,Élaborer des crèmes par cuisson,Technique,EXC,Excellent,15,20.0,"Crème parfaite, gestes précis, résultat au-delà des attentes",0
+GR_0D6EB116,RNCP38765,EP1,C3.2,"Réaliser des pâtes (levée, levée-feuilletée, feuilletée)",Technique,DEB,Débutant,0,4.5,"Pâte ratée, feuilletage absent ou incorrecte, levée insuffisante",0
+GR_ABAA6198,RNCP38765,EP1,C3.2,"Réaliser des pâtes (levée, levée-feuilletée, feuilletée)",Technique,EXE,Exécution,5,9.5,Pâte réalisée mais développement ou texture insuffisants,0
+GR_E91A7088,RNCP38765,EP1,C3.2,"Réaliser des pâtes (levée, levée-feuilletée, feuilletée)",Technique,OPE,Opérationnel,10,14.5,"Pâte conforme, bonne texture, développement correct à la cuisson",0
+GR_0E2C2586,RNCP38765,EP1,C3.2,"Réaliser des pâtes (levée, levée-feuilletée, feuilletée)",Technique,EXC,Excellent,15,20.0,"Pâte de qualité professionnelle, feuilletage régulier, développement parfait",0
+GR_49D282F5,RNCP38765,EP1,C3.3,"Réaliser petits fours secs, moelleux, meringues, gâteaux de voyage",Technique,DEB,Débutant,0,4.5,"Productions non conformes, cuisson incorrecte, aspect non commercial",0
+GR_435DA5CB,RNCP38765,EP1,C3.3,"Réaliser petits fours secs, moelleux, meringues, gâteaux de voyage",Technique,EXE,Exécution,5,9.5,Productions correctes mais régularité ou finition insuffisantes,0
+GR_E715F7D3,RNCP38765,EP1,C3.3,"Réaliser petits fours secs, moelleux, meringues, gâteaux de voyage",Technique,OPE,Opérationnel,10,14.5,"Productions conformes, régulières, bien cuites, aspect commercial",0
+GR_3E98FFB6,RNCP38765,EP1,C3.3,"Réaliser petits fours secs, moelleux, meringues, gâteaux de voyage",Technique,EXC,Excellent,15,20.0,"Productions de qualité artisanale supérieure, finitions soignées, régularité parfaite",0
+GR_27A4F87E,RNCP38765,EP1,C3.15,Analyser la production (organoleptique),Évaluation,DEB,Débutant,0,4.5,"Aucune analyse, ne sait pas identifier les défauts",0
+GR_ACBFE538,RNCP38765,EP1,C3.15,Analyser la production (organoleptique),Évaluation,EXE,Exécution,5,9.5,"Analyse partielle, identifie quelques défauts sans proposer de corrections",0
+GR_6AF11B74,RNCP38765,EP1,C3.15,Analyser la production (organoleptique),Évaluation,OPE,Opérationnel,10,14.5,"Analyse correcte, identifie défauts et propose des corrections pertinentes",0
+GR_8E0D0CFD,RNCP38765,EP1,C3.15,Analyser la production (organoleptique),Évaluation,EXC,Excellent,15,20.0,"Analyse experte, argumentation précise, vocabulaire professionnel maîtrisé",0
+GR_107AC075,RNCP38765,EP2,C4.1,Élaborer l'organigramme de travail,Organisation,DEB,Débutant,0,4.5,"Organigramme absent ou complètement erroné, aucune logique de production",0
+GR_0968903B,RNCP38765,EP2,C4.1,Élaborer l'organigramme de travail,Organisation,EXE,Exécution,5,9.5,"Organigramme incomplet, ordre des étapes partiellement correct",0
+GR_C70586B5,RNCP38765,EP2,C4.1,Élaborer l'organigramme de travail,Organisation,OPE,Opérationnel,10,14.5,"Organigramme logique, respecté durant la fabrication, timing globalement tenu",0
+GR_E4B27EC9,RNCP38765,EP2,C4.1,Élaborer l'organigramme de travail,Organisation,EXC,Excellent,15,20.0,"Organigramme optimal, anticipation des contraintes, timing parfaitement maîtrisé",0
+GR_04DCAA44,RNCP38765,EP2,C5.1,"Réaliser les fonds d'entremets (génoise, dacquoise, joconde...)",Technique,DEB,Débutant,0,4.5,"Fonds ratés, texture ou cuisson incorrecte",0
+GR_085217D2,RNCP38765,EP2,C5.1,"Réaliser les fonds d'entremets (génoise, dacquoise, joconde...)",Technique,EXE,Exécution,5,9.5,Fonds réalisés mais régularité ou cuisson perfectibles,0
+GR_7D4F23F8,RNCP38765,EP2,C5.1,"Réaliser les fonds d'entremets (génoise, dacquoise, joconde...)",Technique,OPE,Opérationnel,10,14.5,"Fonds conformes, bonne texture, cuisson maîtrisée",0
+GR_5A02C73D,RNCP38765,EP2,C5.1,"Réaliser les fonds d'entremets (génoise, dacquoise, joconde...)",Technique,EXC,Excellent,15,20.0,"Fonds de qualité supérieure, légèreté et régularité parfaites",0
+GR_ABC79C1A,RNCP38765,EP2,C5.2,"Préparer les garnitures (mousses, crémeux, ganaches, compotées)",Technique,DEB,Débutant,0,4.5,"Garnitures non conformes, textures incorrectes, sécurité alimentaire non respectée",0
+GR_8B6D6174,RNCP38765,EP2,C5.2,"Préparer les garnitures (mousses, crémeux, ganaches, compotées)",Technique,EXE,Exécution,5,9.5,Garnitures correctes mais texture ou équilibre des saveurs perfectibles,0
+GR_797735B8,RNCP38765,EP2,C5.2,"Préparer les garnitures (mousses, crémeux, ganaches, compotées)",Technique,OPE,Opérationnel,10,14.5,"Garnitures conformes, bonne texture, saveurs équilibrées",0
+GR_E36FD766,RNCP38765,EP2,C5.2,"Préparer les garnitures (mousses, crémeux, ganaches, compotées)",Technique,EXC,Excellent,15,20.0,"Garnitures excellentes, équilibre parfait, maîtrise technique et gustative",0
+GR_75EB3275,RNCP38765,EP2,C5.3,"Monter, garnir et glacer l'entremets",Technique,DEB,Débutant,0,4.5,"Montage incorrect, entremets déformé ou non terminé",0
+GR_385A9698,RNCP38765,EP2,C5.3,"Monter, garnir et glacer l'entremets",Technique,EXE,Exécution,5,9.5,"Montage globalement correct, quelques irrégularités ou défauts de finition",0
+GR_228CB5FC,RNCP38765,EP2,C5.3,"Monter, garnir et glacer l'entremets",Technique,OPE,Opérationnel,10,14.5,"Montage régulier, glaçage lisse, entremets commercialisable",0
+GR_D7103E52,RNCP38765,EP2,C5.3,"Monter, garnir et glacer l'entremets",Technique,EXC,Excellent,15,20.0,"Montage impeccable, glaçage miroir parfait, qualité pâtisserie de vitrine",0
+GR_DEDC4F98,RNCP38765,EP2,C5.4,"Décorer l'entremets (chocolat, cornet, éléments décoratifs)",Technique,DEB,Débutant,0,4.5,"Décors absents ou ne tiennent pas, aucune mise en valeur",0
+GR_4FF69E77,RNCP38765,EP2,C5.4,"Décorer l'entremets (chocolat, cornet, éléments décoratifs)",Technique,EXE,Exécution,5,9.5,Décors présents mais maladroits ou peu valorisants,0
+GR_510BAB84,RNCP38765,EP2,C5.4,"Décorer l'entremets (chocolat, cornet, éléments décoratifs)",Technique,OPE,Opérationnel,10,14.5,"Décors soignés, cohérents avec le produit, écriture au cornet lisible",0
+GR_2402B84E,RNCP38765,EP2,C5.4,"Décorer l'entremets (chocolat, cornet, éléments décoratifs)",Technique,EXC,Excellent,15,20.0,"Décors élaborés, créatifs, écriture parfaite, présentation digne d'un concours",0
+GR_7841CB16,RNCP38765,EP2,C6.1,Valoriser et présenter la production,Valorisation,DEB,Débutant,0,4.5,"Aucune mise en valeur, présentation négligée",0
+GR_8B52ADF2,RNCP38765,EP2,C6.1,Valoriser et présenter la production,Valorisation,EXE,Exécution,5,9.5,Présentation correcte mais manque de soin ou d'argumentation,0
+GR_DB2C26A2,RNCP38765,EP2,C6.1,Valoriser et présenter la production,Valorisation,OPE,Opérationnel,10,14.5,"Présentation soignée, argumentaire commercial correct",0
+GR_0C1673B7,RNCP38765,EP2,C6.1,Valoriser et présenter la production,Valorisation,EXC,Excellent,15,20.0,"Présentation professionnelle, discours de vente maîtrisé, mise en scène soignée",0
+GR_178DBA56,RNCP38765,EP2,C7.1,Faire le bilan du travail réalisé (compte-rendu oral),Évaluation,DEB,Débutant,0,4.5,"Incapable d'analyser sa prestation, aucun recul",0
+GR_3DDFDBDD,RNCP38765,EP2,C7.1,Faire le bilan du travail réalisé (compte-rendu oral),Évaluation,EXE,Exécution,5,9.5,"Bilan partiel, identifie quelques points sans argumentation",0
+GR_44B16220,RNCP38765,EP2,C7.1,Faire le bilan du travail réalisé (compte-rendu oral),Évaluation,OPE,Opérationnel,10,14.5,"Bilan structuré, identifie points forts et axes d'amélioration",0
+GR_743BE7F8,RNCP38765,EP2,C7.1,Faire le bilan du travail réalisé (compte-rendu oral),Évaluation,EXC,Excellent,15,20.0,"Bilan expert, analyse critique précise, propose des améliorations concrètes",0
+GR_57729B29,RNCP38765,EP2,C7.2,Mesurer le coût des produits fabriqués,Gestion,DEB,Débutant,0,4.5,Aucun calcul ou calcul complètement erroné,0
+GR_51282D96,RNCP38765,EP2,C7.2,Mesurer le coût des produits fabriqués,Gestion,EXE,Exécution,5,9.5,"Calcul partiel, erreurs importantes",0
+GR_E9B57EE7,RNCP38765,EP2,C7.2,Mesurer le coût des produits fabriqués,Gestion,OPE,Opérationnel,10,14.5,"Calcul correct, résultat cohérent avec la réalité professionnelle",0
+GR_28FC071E,RNCP38765,EP2,C7.2,Mesurer le coût des produits fabriqués,Gestion,EXC,Excellent,15,20.0,"Calcul précis, interprétation et analyse du coût, propositions d'optimisation",0

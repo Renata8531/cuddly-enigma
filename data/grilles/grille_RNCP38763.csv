@@ -1,0 +1,41 @@
+﻿grille_id,referentiel_id,epreuve,competence_code,competence,famille,critique,niveau_code,niveau_libelle,note_min,note_max,indicateur
+GR_C62CF5C1,RNCP38763,EP1,GC1.1,"Réaliser glaces, sorbets et spécialités glacées artisanales",Technique,0,DEB,Débutant,0,4.5,"Mix non conformes, texture ou équilibre incorrect"
+GR_DAAED008,RNCP38763,EP1,GC1.1,"Réaliser glaces, sorbets et spécialités glacées artisanales",Technique,0,EXE,Exécution,5,9.5,"Produits réalisés, texture ou équilibre perfectibles"
+GR_188C9066,RNCP38763,EP1,GC1.1,"Réaliser glaces, sorbets et spécialités glacées artisanales",Technique,0,OPE,Opérationnel,10,14.5,"Produits conformes, bonne texture, équilibre correct"
+GR_9B5473CB,RNCP38763,EP1,GC1.1,"Réaliser glaces, sorbets et spécialités glacées artisanales",Technique,0,EXC,Excellent,15,20.0,"Produits d'exception, équilibre parfait, maîtrise aromatique totale"
+GR_8F326141,RNCP38763,EP1,GC1.2,Confectionner entremets glacés et bûches glacées,Technique,0,DEB,Débutant,0,4.5,Montage incorrect ou non terminé
+GR_86F8EA0C,RNCP38763,EP1,GC1.2,Confectionner entremets glacés et bûches glacées,Technique,0,EXE,Exécution,5,9.5,"Montage réalisé, finitions perfectibles"
+GR_86AD5C70,RNCP38763,EP1,GC1.2,Confectionner entremets glacés et bûches glacées,Technique,0,OPE,Opérationnel,10,14.5,"Montage soigné, produit commercialisable"
+GR_AF865F6B,RNCP38763,EP1,GC1.2,Confectionner entremets glacés et bûches glacées,Technique,0,EXC,Excellent,15,20.0,"Montage impeccable, décors soignés, qualité artisanale supérieure"
+GR_E21F12B3,RNCP38763,EP1,GC1.3,"Produire confiseries (caramels, nougats, pâtes de fruits, guimauves)",Technique,0,DEB,Débutant,0,4.5,"Cuisson de sucre non maîtrisée, résultats non conformes"
+GR_C087C808,RNCP38763,EP1,GC1.3,"Produire confiseries (caramels, nougats, pâtes de fruits, guimauves)",Technique,0,EXE,Exécution,5,9.5,"Confiseries réalisées, texture ou cuisson perfectibles"
+GR_C41E412C,RNCP38763,EP1,GC1.3,"Produire confiseries (caramels, nougats, pâtes de fruits, guimauves)",Technique,0,OPE,Opérationnel,10,14.5,"Confiseries conformes, cuisson et texture correctes"
+GR_5B2CAA68,RNCP38763,EP1,GC1.3,"Produire confiseries (caramels, nougats, pâtes de fruits, guimauves)",Technique,0,EXC,Excellent,15,20.0,"Confiseries de qualité artisanale, textures parfaites, saveurs complexes"
+GR_5CBC357B,RNCP38763,EP1,GC1.4,HACCP glacerie et confiserie (CRITIQUE),Hygiène,1,DEB,Débutant,0,4.5,"BLOQUANT — Chaîne du froid non respectée, risques sanitaires"
+GR_EE419019,RNCP38763,EP1,GC1.4,HACCP glacerie et confiserie (CRITIQUE),Hygiène,1,EXE,Exécution,5,9.5,"Règles partiellement respectées, quelques non-conformités"
+GR_72D6F4C7,RNCP38763,EP1,GC1.4,HACCP glacerie et confiserie (CRITIQUE),Hygiène,1,OPE,Opérationnel,10,14.5,"HACCP appliqué, chaîne du froid maîtrisée"
+GR_96ADBD89,RNCP38763,EP1,GC1.4,HACCP glacerie et confiserie (CRITIQUE),Hygiène,1,EXC,Excellent,15,20.0,"Démarche HACCP irréprochable, traçabilité parfaite, zéro risque"
+GR_8BBBEDE2,RNCP38763,EP1,GC1.5,Maîtriser les équipements de production froide,Technologie,0,DEB,Débutant,0,4.5,"Ne sait pas utiliser les équipements, réglages incorrects"
+GR_B545139B,RNCP38763,EP1,GC1.5,Maîtriser les équipements de production froide,Technologie,0,EXE,Exécution,5,9.5,Utilise les équipements avec quelques erreurs
+GR_8A5D86CB,RNCP38763,EP1,GC1.5,Maîtriser les équipements de production froide,Technologie,0,OPE,Opérationnel,10,14.5,"Utilise correctement les équipements, paramètres maîtrisés"
+GR_2353F682,RNCP38763,EP1,GC1.5,Maîtriser les équipements de production froide,Technologie,0,EXC,Excellent,15,20.0,"Maîtrise totale, optimise les réglages, entretien courant effectué"
+GR_6B6C0072,RNCP38763,EP2,GC3.1,Organiser et planifier les productions glacées et confiseries,Organisation,0,DEB,Débutant,0,4.5,"Aucune organisation, production désordonnée"
+GR_E76462C9,RNCP38763,EP2,GC3.1,Organiser et planifier les productions glacées et confiseries,Organisation,0,EXE,Exécution,5,9.5,Organisation partielle
+GR_9075875D,RNCP38763,EP2,GC3.1,Organiser et planifier les productions glacées et confiseries,Organisation,0,OPE,Opérationnel,10,14.5,"Production organisée, planning respecté"
+GR_141B41B1,RNCP38763,EP2,GC3.1,Organiser et planifier les productions glacées et confiseries,Organisation,0,EXC,Excellent,15,20.0,"Planning optimal, anticipation des contraintes de froid, aucune perte"
+GR_E6914A90,RNCP38763,EP2,GC3.2,Adapter les recettes selon saisons et matières premières,Technique,0,DEB,Débutant,0,4.5,"Aucune adaptation, recettes appliquées sans réflexion"
+GR_439A91A0,RNCP38763,EP2,GC3.2,Adapter les recettes selon saisons et matières premières,Technique,0,EXE,Exécution,5,9.5,"Adaptations partielles, quelques incohérences"
+GR_DDD99CD1,RNCP38763,EP2,GC3.2,Adapter les recettes selon saisons et matières premières,Technique,0,OPE,Opérationnel,10,14.5,"Adaptations pertinentes, résultats conformes"
+GR_6828B68B,RNCP38763,EP2,GC3.2,Adapter les recettes selon saisons et matières premières,Technique,0,EXC,Excellent,15,20.0,"Adaptations expertes, créativité maîtrisée, résultats constants"
+GR_41A70D60,RNCP38763,EP2,GC3.3,Présenter et mettre en valeur les productions,Valorisation,0,DEB,Débutant,0,4.5,Présentation négligée
+GR_36EDDD18,RNCP38763,EP2,GC3.3,Présenter et mettre en valeur les productions,Valorisation,0,EXE,Exécution,5,9.5,"Présentation correcte, manque de soin"
+GR_5B9ED6C4,RNCP38763,EP2,GC3.3,Présenter et mettre en valeur les productions,Valorisation,0,OPE,Opérationnel,10,14.5,"Présentation soignée, produits mis en valeur"
+GR_AFAF32ED,RNCP38763,EP2,GC3.3,Présenter et mettre en valeur les productions,Valorisation,0,EXC,Excellent,15,20.0,"Présentation professionnelle, mise en scène créative et attrayante"
+GR_5D38D0B4,RNCP38763,EP2,GC3.4,Calculer les coûts et gérer les stocks,Gestion,0,DEB,Débutant,0,4.5,Aucun calcul ou calcul erroné
+GR_B7FAF087,RNCP38763,EP2,GC3.4,Calculer les coûts et gérer les stocks,Gestion,0,EXE,Exécution,5,9.5,"Calculs partiels, stocks approximatifs"
+GR_BA6AB99D,RNCP38763,EP2,GC3.4,Calculer les coûts et gérer les stocks,Gestion,0,OPE,Opérationnel,10,14.5,"Calculs corrects, gestion des stocks conforme"
+GR_8F9ABE1B,RNCP38763,EP2,GC3.4,Calculer les coûts et gérer les stocks,Gestion,0,EXC,Excellent,15,20.0,"Analyse précise, optimisation, stocks parfaitement maîtrisés"
+GR_2218F27A,RNCP38763,EP2,GC3.5,Communiquer et valoriser les produits auprès de la vente,Communication,0,DEB,Débutant,0,4.5,"Aucune communication, produits non connus"
+GR_63D8CE73,RNCP38763,EP2,GC3.5,Communiquer et valoriser les produits auprès de la vente,Communication,0,EXE,Exécution,5,9.5,Communication basique
+GR_29F3732D,RNCP38763,EP2,GC3.5,Communiquer et valoriser les produits auprès de la vente,Communication,0,OPE,Opérationnel,10,14.5,"Communication claire, produits bien présentés"
+GR_D35D8AD4,RNCP38763,EP2,GC3.5,Communiquer et valoriser les produits auprès de la vente,Communication,0,EXC,Excellent,15,20.0,"Argumentaire expert, techniques de vente maîtrisées, storytelling produit"

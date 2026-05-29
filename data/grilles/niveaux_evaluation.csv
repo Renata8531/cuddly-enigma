@@ -1,0 +1,5 @@
+﻿code,libelle,note_min,note_max,description
+DEB,Débutant,0,4.5,"La compétence n'est pas maîtrisée. Les gestes sont incertains, les résultats non conformes."
+EXE,Exécution,5,9.5,La compétence est partiellement maîtrisée. Les gestes sont corrects mais manquent de régularité ou d'autonomie.
+OPE,Opérationnel,10,14.5,"La compétence est maîtrisée. Les gestes sont sûrs, le résultat est conforme aux attentes professionnelles."
+EXC,Excellent,15,20.0,"La compétence est parfaitement maîtrisée. Les gestes sont précis, le résultat dépasse les attentes, autonomie totale."
